@@ -1,4 +1,5 @@
-[v0.0.2](https://github.com/littleflute/Yani1/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/Yani1/edit/master/README.md)
+[show this page](https://littleflute.github.io/Yani1/)
 
 <audio controls id="player"> 
   <source src="https://littleflute.github.io/Yani1/A collection of romantic themes/cd/01_曲目 1.mp3" type="audio/mpeg">
